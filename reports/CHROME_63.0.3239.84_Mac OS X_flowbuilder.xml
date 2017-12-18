@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="9">
+
+  <testsuite name="flowbuilder"
+    errors="0" failures="1" hostname="" id="" package="flowbuilder" skipped="4"
+    tests="9" time="20.89" timestamp="Sat, 16 Dec 2017 01:58:55 GMT">
+  
+    <testcase name="login" classname="flowbuilder" time="5.495" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="navigate-to-fb-graph" classname="flowbuilder" time="11.58" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="enable-grid-lines" classname="flowbuilder" time="2.261" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="insert-graph-from-json" classname="flowbuilder" time="0.7610" assertions="0">
+    </testcase>
+  
+    <testcase name="validate-graph" classname="flowbuilder" time="0.7940" assertions="2">
+
+      <failure message="Testing if element &lt;#validation-successful-modal-text&gt; contains text: &quot;Graph is well-formed and valid&quot;.">    at Object.validate-graph (/Users/namlam/Documents/Code/Pigafetta/tests/flowbuilder.js:83:12)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+    
+    <testcase
+      name="delete-one-condition" classname="flowbuilder">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="add-invalid-condition" classname="flowbuilder">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="fix-invalid-condition" classname="flowbuilder">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="close-chrome" classname="flowbuilder">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

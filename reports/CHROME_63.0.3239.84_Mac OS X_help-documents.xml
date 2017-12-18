@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="26">
+
+  <testsuite name="help-documents"
+    errors="0" failures="0" hostname="" id="" package="help-documents" skipped="0"
+    tests="26" time="52.28" timestamp="Thu, 14 Dec 2017 23:59:39 GMT">
+  
+    <testcase name="login" classname="help-documents" time="5.790" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="navigate-to-help" classname="help-documents" time="6.000" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-present-documents" classname="help-documents" time="1.662" assertions="23">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-matching-datasheet" classname="help-documents" time="3.783" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-accout-scoring-datasheet" classname="help-documents" time="1.712" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-tagging-faq" classname="help-documents" time="1.741" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-marketo-webhook-integration" classname="help-documents" time="1.741" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-lead-router-datasheet" classname="help-documents" time="1.751" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-contact-router-datasheet" classname="help-documents" time="1.709" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-routing-action-guide" classname="help-documents" time="1.727" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-round-robin-faq" classname="help-documents" time="1.763" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-router-faq" classname="help-documents" time="1.772" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-multi-touch-attribution-datasheet" classname="help-documents" time="1.704" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-attribution-overview" classname="help-documents" time="1.738" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-attribution-wizard" classname="help-documents" time="1.743" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-attribution-views-setup" classname="help-documents" time="1.736" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-view-datasheet" classname="help-documents" time="1.751" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-product-overview" classname="help-documents" time="1.744" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-setup" classname="help-documents" time="1.716" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-best-practices" classname="help-documents" time="1.711" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-faq" classname="help-documents" time="1.761" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-managed-app-installation" classname="help-documents" time="1.700" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-dashboard-overview" classname="help-documents" time="1.709" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="verify-email-link" classname="help-documents" time="0.5280" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="verify-phone-number-link" classname="help-documents" time="0.5280" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="close-chrome" classname="help-documents" time="1.065" assertions="0">
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

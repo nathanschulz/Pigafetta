@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="9">
+
+  <testsuite name="flowbuilder"
+    errors="0" failures="0" hostname="" id="" package="flowbuilder" skipped="0"
+    tests="9" time="46.10" timestamp="Fri, 08 Dec 2017 17:18:47 GMT">
+  
+    <testcase name="login" classname="flowbuilder" time="5.178" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="navigate-to-fb-graph" classname="flowbuilder" time="16.10" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="enable-grid-lines" classname="flowbuilder" time="2.301" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="insert-graph-from-json" classname="flowbuilder" time="0.7520" assertions="0">
+    </testcase>
+  
+    <testcase name="validate-graph" classname="flowbuilder" time="1.847" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="delete-one-condition" classname="flowbuilder" time="5.469" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="add-invalid-condition" classname="flowbuilder" time="5.749" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="fix-invalid-condition" classname="flowbuilder" time="6.137" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="close-chrome" classname="flowbuilder" time="2.560" assertions="0">
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
